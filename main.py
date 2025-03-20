@@ -33,6 +33,8 @@ print("Kayıt 'recording_scipy.wav' olarak kaydedildi.")
 wv.write("recording_wavio.wav", audio_data, SAMPLE_RATE, sampwidth=2)
 print("Kayıt 'recording_wavio.wav' olarak kaydedildi.")
 
+print(":))))")
+
 
 
 
